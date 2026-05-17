@@ -134,7 +134,7 @@ const config = {
       "value": "prisma-client-js"
     },
     "output": {
-      "value": "C:\\Projects\\Claude Code Cert\\uigen\\src\\generated\\prisma",
+      "value": "C:\\Projects\\Claude Code Cert\\uigen-claude_code\\src\\generated\\prisma",
       "fromEnvVar": null
     },
     "config": {
@@ -148,7 +148,7 @@ const config = {
       }
     ],
     "previewFeatures": [],
-    "sourceFilePath": "C:\\Projects\\Claude Code Cert\\uigen\\prisma\\schema.prisma",
+    "sourceFilePath": "C:\\Projects\\Claude Code Cert\\uigen-claude_code\\prisma\\schema.prisma",
     "isCustomOutput": true
   },
   "relativeEnvPaths": {
